@@ -1,6 +1,6 @@
 [general]
 creator=R package 'raster'
-created=2020-10-19 15:03:34
+created=2020-10-19 15:37:37
 [georeference]
 nrows=86
 ncols=110
@@ -12,14 +12,15 @@ projection=+proj=longlat +datum=WGS84 +no_defs
 [data]
 datatype=INT2S
 byteorder=little
-nbands=3
+nbands=1
 bandorder=BIL
-minvalue=0:0:0
-maxvalue=1:1:1
+categorical=FALSE
+minvalue=0
+maxvalue=1
 nodatavalue=-9999
 [legend]
 legendtype=
 values=
 color=
 [description]
-layername=layer.1:layer.2:layer.3
+layername=layer
