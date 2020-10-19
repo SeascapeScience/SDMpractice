@@ -15,4 +15,4 @@ A quick reference for the github commands:
 - `git push`
   - This will send your changes back to the repository on github so everyone will see them
  
- 
+Mola mola example: [This should preview the HTML](https://htmlpreview.github.io/?https://raw.githubusercontent.com/SeascapeScience/SDMpractice/main/MolaMolaExample.html)
